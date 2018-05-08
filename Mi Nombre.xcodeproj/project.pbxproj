@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		0D520DB3209900E900E13086 /* PrimerProyecto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PrimerProyecto.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0D520DB3209900E900E13086 /* Mi Nombre.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Mi Nombre.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D520DB6209900E900E13086 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0D520DB8209900E900E13086 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		0D520DBB209900E900E13086 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		0D520DB4209900E900E13086 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0D520DB3209900E900E13086 /* PrimerProyecto.app */,
+				0D520DB3209900E900E13086 /* Mi Nombre.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +67,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0D520DB2209900E900E13086 /* PrimerProyecto */ = {
+		0D520DB2209900E900E13086 /* Mi Nombre */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0D520DC5209900E900E13086 /* Build configuration list for PBXNativeTarget "PrimerProyecto" */;
+			buildConfigurationList = 0D520DC5209900E900E13086 /* Build configuration list for PBXNativeTarget "Mi Nombre" */;
 			buildPhases = (
 				0D520DAF209900E900E13086 /* Sources */,
 				0D520DB0209900E900E13086 /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = PrimerProyecto;
+			name = "Mi Nombre";
 			productName = PrimerProyecto;
-			productReference = 0D520DB3209900E900E13086 /* PrimerProyecto.app */;
+			productReference = 0D520DB3209900E900E13086 /* Mi Nombre.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -96,11 +96,12 @@
 				TargetAttributes = {
 					0D520DB2209900E900E13086 = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = N8AQP6FAJ4;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = 0D520DAE209900E900E13086 /* Build configuration list for PBXProject "PrimerProyecto" */;
+			buildConfigurationList = 0D520DAE209900E900E13086 /* Build configuration list for PBXProject "Mi Nombre" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -113,7 +114,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0D520DB2209900E900E13086 /* PrimerProyecto */,
+				0D520DB2209900E900E13086 /* Mi Nombre */,
 			);
 		};
 /* End PBXProject section */
@@ -260,6 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = N8AQP6FAJ4;
 				INFOPLIST_FILE = PrimerProyecto/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.sgo.PrimerProyecto;
@@ -272,6 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = N8AQP6FAJ4;
 				INFOPLIST_FILE = PrimerProyecto/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.sgo.PrimerProyecto;
@@ -283,7 +286,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0D520DAE209900E900E13086 /* Build configuration list for PBXProject "PrimerProyecto" */ = {
+		0D520DAE209900E900E13086 /* Build configuration list for PBXProject "Mi Nombre" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0D520DC3209900E900E13086 /* Debug */,
@@ -292,7 +295,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0D520DC5209900E900E13086 /* Build configuration list for PBXNativeTarget "PrimerProyecto" */ = {
+		0D520DC5209900E900E13086 /* Build configuration list for PBXNativeTarget "Mi Nombre" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0D520DC6209900E900E13086 /* Debug */,
